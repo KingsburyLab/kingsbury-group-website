@@ -52,4 +52,4 @@ content:
 design:
   columns: '1'
 ---
-If you are interested in collaborating, sponsoring, or working in our group, please get in touch!
+If you are interested in collaborating, sponsoring our research, or working in our group, please get in touch!

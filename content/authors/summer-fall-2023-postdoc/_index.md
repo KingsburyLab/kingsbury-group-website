@@ -1,6 +1,6 @@
 ---
-title: Summer / Fall 2023 Postdoc
-role: "Postdoctoral Opening (topic: computational electrochemistry)"
+title: Postdoc Opening
+role: "Summer / Fall 2023 (topic: computational electrochemistry)"
 avatar_filename: avatar
 social: []
 superuser: false

@@ -28,6 +28,8 @@ education:
     - course: B.A. in Plan II
       institution: University of Texas at Austin
       year: 2007
+user_groups:
+  - Principal Investigators
 name: Ryan Kingsbury
 title: Ryan Kingsbury, Ph.D., P.E.
 role: Incoming Assistant Professor (2023)

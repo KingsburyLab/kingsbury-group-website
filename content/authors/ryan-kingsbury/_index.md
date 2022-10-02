@@ -33,7 +33,7 @@ user_groups:
 name: Ryan Kingsbury
 title: Ryan Kingsbury, Ph.D., P.E.
 role: Incoming Assistant Professor (2023)
-avatar_filename: kingsbury_headshot_aug2022_square.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: envelope
     icon_pack: fas

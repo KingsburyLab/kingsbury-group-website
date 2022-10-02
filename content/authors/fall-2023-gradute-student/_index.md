@@ -1,6 +1,6 @@
 ---
-title: Fall 2023 Gradute Student
-role: Graduate Student Opening
+title: Graduate Student Opening
+role: Fall 2023
 avatar_filename: avatar
 social: []
 superuser: false

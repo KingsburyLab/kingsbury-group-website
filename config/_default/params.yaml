@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/rkingsbury/kingsbury-group-website'
+    url: 'https://github.com/KingsburyLab/kingsbury-group-website'
     content_dir: content
     branch: main
   avatar:

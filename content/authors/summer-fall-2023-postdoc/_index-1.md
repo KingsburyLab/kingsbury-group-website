@@ -1,6 +1,6 @@
 ---
-title: Summer / Fall 2023 Postdoc
-role: "Postdoc opening (topic: electrochemical characterization)"
+title: Postdoc Opening
+role: "Summer / Fall 2023 (topic: electrochemical characterization)"
 avatar_filename: avatar
 social: []
 superuser: false

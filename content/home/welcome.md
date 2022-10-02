@@ -3,7 +3,7 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: Kingsbury Research Group
+title: ""
 active: true
 design:
   columns: "1"
@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: kingsbury_lab_logo.png
+    text_color_light: false
 hero_media: welcome.jpg
 ---
 Welcome to the Kingsbury research group website. We seek to **accelerate development of electrochemical technologies for environmental protection.** We do so by by investigating how charged particles (**ions**) move through engineered separation materials like **membranes.**

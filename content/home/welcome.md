@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: kingsbury_lab_logo.png
     text_color_light: false
 hero_media: welcome.jpg
 ---

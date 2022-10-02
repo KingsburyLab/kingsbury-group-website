@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: hero
+widget_id: welcome-page
 headless: true
 weight: 10
 title: ""

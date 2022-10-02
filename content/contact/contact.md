@@ -24,7 +24,7 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '40.349371', 
+    latitude: '40.349371'
     longitude: '-74.650777'
   directions: Andlinger Center for Energy and the Environment
   # office_hours:

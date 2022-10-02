@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: kingsbury <at> princeton.edu
+  email: kingsbury (@princeton.edu)
   address:
     street: 86 Olden Street
     city: Princeton

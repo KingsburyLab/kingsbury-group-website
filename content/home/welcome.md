@@ -12,7 +12,7 @@ design:
   background:
     image: kingsbury_lab_logo.png
     text_color_light: false
-hero_media: welcome.jpg
+hero_media: kingsbury_lab_logo.png
 ---
 Welcome to the Kingsbury research group website. We seek to **accelerate development of electrochemical technologies for environmental protection.** We do so by by investigating how charged particles (**ions**) move through engineered separation materials like **membranes.**
 

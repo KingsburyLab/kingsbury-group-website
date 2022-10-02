@@ -4,7 +4,7 @@ widget_id: welcome-page
 headless: true
 weight: 10
 title: ""
-active: true
+active: false
 design:
   columns: "1"
   css_style: null

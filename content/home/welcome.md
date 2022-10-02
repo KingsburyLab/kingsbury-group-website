@@ -4,13 +4,13 @@ widget_id: welcome-page
 headless: true
 weight: 10
 title: ""
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    image: kingsbury_lab_logo.png
+    image: ""
     text_color_light: false
 hero_media: welcome.jpg
 ---

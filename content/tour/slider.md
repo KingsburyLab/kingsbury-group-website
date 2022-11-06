@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Welcome to the Kingsbury Research Group
+      content: We seek to **accelerate development** of electrochemical technologies for to address environmental challenges like climate change, water scarcity, and food (in)security.
       align: center
       background:
         position: right
@@ -24,8 +24,8 @@ content:
         brightness: 0.7
         media: Hero_1.jpg
         fit: contain
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: We study ion-selective materials
+      content: 'Materials that filter charged particles (ions) are critical elements of new clean technologies for water purification and energy production'
       align: left
       background:
         position: center
@@ -33,6 +33,11 @@ content:
         brightness: 0.7
         media: Hero_2.jpg
         fit: contain
+      link:
+        icon: microscope
+        icon_pack: fas
+        text: Our Research
+        url: ../research/
     - title: Join Us
       content: 'The Kingsbury Group is coming to Princeton University in 2023!'
       align: right
@@ -45,6 +50,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Opportunities
+        text: See Openings
         url: ../people/
 ---

@@ -12,6 +12,6 @@ design:
   background:
     image: ""
     text_color_light: false
-hero_media: ix_membranes.jpg
+hero_media: electrochemistry.jpg
 ---
 We study membranes.

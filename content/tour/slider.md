@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to the Kingsbury Research Group
-      content: ![kingsbury lab logo](kingsbury_lab_logo.png)We seek to **accelerate development** of electrochemical technologies that address environmental challenges related to climate change, water scarcity, and food security.
+      content: "![kingsbury lab logo](kingsbury_lab_logo.png)We seek to **accelerate development** of electrochemical technologies that address environmental challenges related to climate change, water scarcity, and food security."
       align: center
       background:
         position: right

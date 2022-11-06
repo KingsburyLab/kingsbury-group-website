@@ -25,7 +25,7 @@ content:
         media: Hero_1.jpg
         fit: cover
     - title: We study ion-selective materials
-      content: 'Materials that filter charged particles (ions) are essential components of new clean technologies for water purification and energy production.'
+      content: 'Materials that filter charged particles (ions) are essential components of many clean water and energy technologies, including processes for **water desalination, wastewater recycling, energy storage,** and **energy production.**'
       align: left
       background:
         position: center
@@ -39,7 +39,7 @@ content:
         text: Our Research
         url: ../research/
     - title: Join Us
-      content: 'The Kingsbury Group is coming to Princeton University! We are recruiting multiple graduate students and postdocs to start in Summer/Fall 2023.'
+      content: 'The Kingsbury Lab is coming to Princeton University! We are recruiting multiple graduate students and postdocs to start in Summer/Fall 2023.'
       align: left
       background:
         position: center

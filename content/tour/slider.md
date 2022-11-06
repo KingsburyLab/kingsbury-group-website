@@ -16,23 +16,24 @@ design:
 content:
   slides:
     - title: Welcome to the Kingsbury Research Group
-      content: We seek to **accelerate development** of electrochemical technologies for to address environmental challenges like climate change, water scarcity, and food (in)security.
+      content: "<!-- {{< figure src="kingsbury_lab_logo.png" width="100">}} -->
+We seek to **accelerate development** of electrochemical technologies that address environmental challenges related to climate change, water scarcity, and food security."
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.5
         media: Hero_1.jpg
-        fit: contain
+        fit: cover
     - title: We study ion-selective materials
-      content: 'Materials that filter charged particles (ions) are critical elements of new clean technologies for water purification and energy production'
+      content: 'Materials that filter charged particles (ions) are essential components of new clean technologies for water purification and energy production.'
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.5
         media: Hero_2.jpg
-        fit: contain
+        fit: cover
       link:
         icon: microscope
         icon_pack: fas
@@ -46,7 +47,7 @@ content:
         color: '#333'
         brightness: 0.5
         media: Hero_5.jpg
-        fit: contain
+        fit: cover
       link:
         icon: graduation-cap
         icon_pack: fas

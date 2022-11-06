@@ -39,10 +39,10 @@ content:
         text: Our Research
         url: ../research/
     - title: Join Us
-      content: 'The Kingsbury Group is coming to Princeton University in 2023!'
+      content: 'The Kingsbury Group is coming to Princeton University! We are recruiting multiple graduate students and postdocs to start in Summer/Fall 2023.'
       align: right
       background:
-        position: center
+        position: right
         color: '#333'
         brightness: 0.5
         media: Hero_5.jpg

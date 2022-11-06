@@ -19,4 +19,4 @@ hero_media: electrochemistry.jpg
 a major focus of our research. We employ electrochemical techniques like impedance
 spectroscopy (EIS) and permselectivity to characterize material performance.
 
-![ions and water next to electrode](icon_echem.png "electrochemistry")
+{{< figure src="icon_echem.png" >, alt_text="ions and water next to electrode", width=100}}

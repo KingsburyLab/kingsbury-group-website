@@ -3,7 +3,7 @@ widget: hero
 widget_id: research-membranes
 headless: true
 weight: 10
-title: "Membranes"
+title: "Electrochemistry"
 active: true
 design:
   columns: "2"

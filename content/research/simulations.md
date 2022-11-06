@@ -3,7 +3,7 @@ widget: hero
 widget_id: research-membranes
 headless: true
 weight: 10
-title: "Membranes"
+title: "Simulations"
 active: true
 design:
   columns: "2"
@@ -12,6 +12,6 @@ design:
   background:
     image: ""
     text_color_light: false
-hero_media: ix_membranes.jpg
+hero_media: simulations.png
 ---
 We study membranes.

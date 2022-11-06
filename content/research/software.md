@@ -14,4 +14,4 @@ design:
     text_color_light: false
 hero_media: software.png
 ---
-Our group strives to be a leader in promoting **state-of-the-art data management and analysis** approaches enabled by open-source software. Automated data processing unlocks new scientific opportunities by making it possible to investigate larger datasets, while increasing standardization and reproducibility.
+Our group strives to unlock new scientific opportunities by promoting **state-of-the-art data management and analysis** approaches enabled by software. For example, automated data processing makes it possible to investigate larger datasets while increasing standardization and reproducibility.

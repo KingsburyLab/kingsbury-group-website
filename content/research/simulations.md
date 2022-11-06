@@ -14,4 +14,4 @@ design:
     text_color_light: false
 hero_media: simulations.png
 ---
-We employ **atomistic simulations** like density functional theory (DFT) and molecular dynamics (MD) to better understand experimentally-observed trends in ion selectivity. For example, simulations can generate rich information about the way water molecules arrange themselves around different ions, and how ion-specific differences in hydration relate to transport.
+We employ **atomistic simulations** like density functional theory (DFT) and molecular dynamics (MD) to better understand experimentally-observed trends in ion selectivity. For example, simulations can generate rich information about the way electrons and water molecules arrange themselves around different ions, and how those factors affect interactions with engineered materials.

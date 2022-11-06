@@ -3,7 +3,7 @@ widget: blank
 widget_id: research-header
 headless: true
 weight: 1
-title: ""
+title: "Research"
 active: true
 design:
   columns: "1"
@@ -13,11 +13,10 @@ design:
     image: ""
     text_color_light: false
 ---
-{{< figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo">}}
+<!-- {{< figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo">}} -->
 
-### Our signature research approach integrates experiments, simulations, and software to advance fundamental understanding of ion transport phenomena in engineered, ion-selective materials such as membranes and sorbents.
 
-<table  cellpadding="15">
+<table  cellpadding="15" style="margin:auto">
 	<tbody>
 		<tr class="text-align:center">
 			<td class="text-align:center">{{< figure src="icon_membranes.png" width="130" caption="membranes" alt="membrane passing lithium ion and blocking potasisum ion">}}</td>
@@ -29,3 +28,6 @@ design:
 		</tr>
 	</tbody>
 </table>
+
+
+### Our signature research approach integrates experiments, simulations, and software to advance fundamental understanding of ion transport phenomena in engineered, ion-selective materials such as membranes and sorbents.

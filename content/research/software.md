@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-software
 headless: true
-weight: 20
+weight: 40
 title: "Software"
 active: true
 design:

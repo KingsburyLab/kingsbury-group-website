@@ -2,11 +2,11 @@
 widget: blank
 widget_id: research-membranes
 headless: true
-weight: 50
+weight: 10
 title: "Membranes"
 active: true
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:

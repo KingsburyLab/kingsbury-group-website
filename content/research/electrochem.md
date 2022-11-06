@@ -14,4 +14,8 @@ design:
     text_color_light: false
 hero_media: electrochemistry.jpg
 ---
-We study membranes.
+**Electrically-driven** separation and energy processes such as electrodialysis are
+a major focus of our research. We employ electrochemical techniques like impedance
+spectroscopy (EIS) to characterize material performance.
+
+![ions and water next to electrode](icon_echem.png "electrochemistry")

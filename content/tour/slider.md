@@ -33,18 +33,18 @@ content:
         brightness: 0.7
         media: Hero_2.jpg
         fit: contain
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Join Us
+      content: 'The Kingsbury Group is coming to Princeton University in 2023!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: Hero_5.jpg
         fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Opportunities
+        url: ../people/
 ---

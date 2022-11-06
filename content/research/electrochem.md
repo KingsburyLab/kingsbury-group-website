@@ -1,8 +1,8 @@
 ---
 widget: hero
-widget_id: research-membranes
+widget_id: research-electrochemistry
 headless: true
-weight: 10
+weight: 40
 title: "Electrochemistry"
 active: true
 design:
@@ -10,12 +10,13 @@ design:
   css_style: null
   css_class: null
   background:
+    color: gray
     image: ""
     text_color_light: false
 hero_media: electrochemistry.jpg
 ---
 **Electrically-driven** separation and energy processes such as electrodialysis are
 a major focus of our research. We employ electrochemical techniques like impedance
-spectroscopy (EIS) to characterize material performance.
+spectroscopy (EIS) and permselectivity to characterize material performance.
 
 ![ions and water next to electrode](icon_echem.png "electrochemistry")

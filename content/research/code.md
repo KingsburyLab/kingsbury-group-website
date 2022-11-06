@@ -1,8 +1,8 @@
 ---
 widget: hero
-widget_id: research-membranes
+widget_id: research-software
 headless: true
-weight: 10
+weight: 20
 title: "Software"
 active: true
 design:

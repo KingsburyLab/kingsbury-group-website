@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-membranes
 headless: true
-weight: 10
+weight: 50
 title: "Membranes"
 active: true
 design:
@@ -14,4 +14,6 @@ design:
     text_color_light: false
 hero_media: ix_membranes.jpg
 ---
-We study membranes.
+![membrane passing lithium ion and blocking potasisum ion](icon_membranes.png)
+
+Ion-selective membranes 

@@ -1,8 +1,8 @@
 ---
 widget: hero
-widget_id: research-membranes
+widget_id: research-simulations
 headless: true
-weight: 10
+weight: 30
 title: "Simulations"
 active: true
 design:

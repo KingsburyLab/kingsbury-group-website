@@ -4,6 +4,7 @@ widget_id: research-header
 headless: true
 weight: 1
 title: "Research"
+align: left
 active: true
 design:
   columns: "1"
@@ -14,7 +15,6 @@ design:
     text_color_light: false
 ---
 <!-- {{< figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo">}} -->
-
 
 <table  cellpadding="15" style="margin:auto">
 	<tbody>

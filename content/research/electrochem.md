@@ -6,7 +6,7 @@ weight: 40
 title: "Electrochemistry"
 active: true
 design:
-  columns: "2"
+  columns: "3"
   css_style: null
   css_class: null
   background:

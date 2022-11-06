@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: blank
 widget_id: research-membranes
 headless: true
 weight: 50
@@ -14,6 +14,6 @@ design:
     text_color_light: false
 hero_media: ix_membranes.jpg
 ---
-![membrane passing lithium ion and blocking potasisum ion](icon_membranes.png)
+{{< figure src="icon_membranes.png" width="100" alt="membrane passing lithium ion and blocking potasisum ion">}}
 
 Ion-selective membranes 

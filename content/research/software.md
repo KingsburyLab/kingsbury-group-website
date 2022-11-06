@@ -12,6 +12,6 @@ design:
   background:
     image: ""
     text_color_light: false
-hero_media: ix_membranes.jpg
+hero_media: software.jpg
 ---
-Our group strives to be a leader in promoting **state-of-the-art data management and analysis** approaches enabled by open-source software. Automated data processing makes it possible to investigate larger datasets, unlocking new scientific opportunities, all while increasing standardization and reproducibility.
+Our group strives to be a leader in promoting **state-of-the-art data management and analysis** approaches enabled by open-source software. Automated data processing unlocks new scientific opportunities by making it possible to investigate larger datasets, while increasing standardization and reproducibility.

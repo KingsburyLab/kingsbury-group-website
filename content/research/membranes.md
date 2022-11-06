@@ -16,4 +16,4 @@ hero_media: ix_membranes.jpg
 ---
 <!-- {{< figure src="icon_membranes.png" width="100" alt="membrane passing lithium ion and blocking potasisum ion">}} -->
 
-Materials like **ion-selective membranes** allow selected charged partiles (ions) to pass through while blocking others. This capability is vitally important for making electrochemical devices like batteries, fuel cells, and water desalination systems function. We study the factors that determine which ions go through, and why, so we can engineer membranes with higher performance.
+Materials like **ion-selective membranes** allow some types of charged partiles (ions) to pass through while filtering out others types. Filtering ions is vitally important for making electrochemical devices like batteries, fuel cells, and water desalination systems function. We study the factors that determine which ions go through, and why, so we can engineer membranes with more precise filtering ability.

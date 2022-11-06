@@ -20,7 +20,7 @@ hero_media: ix_membranes.jpg
 
 <table  cellpadding="15">
 	<tbody>
-		<tr>
+		<tr class="text-align:center">
 			<td class="text-align:center">{{< figure src="icon_membranes.png" width="130" caption="membranes" alt="membrane passing lithium ion and blocking potasisum ion">}}</td>
 			<td class="text-align:center">
 {{< figure src="icon_echem.png" width="130" caption="electrochemistry" alt="membrane passing lithium ion and blocking potasisum ion">}}</td>
@@ -30,9 +30,3 @@ hero_media: ix_membranes.jpg
 		</tr>
 	</tbody>
 </table>
-
-
-
-
-
-

@@ -10,9 +10,9 @@ main:
   - name: Team
     url: people
     weight: 30
-  - name: News
-    url: post
-    weight: 40
+ # - name: News
+ #   url: post
+ #   weight: 40
  # - name: Events
  #   url: event
  #   weight: 40

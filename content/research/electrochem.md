@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-electrochemistry
 headless: true
-weight: 40
+weight: 20
 title: "Electrochemistry"
 active: true
 design:
@@ -14,7 +14,7 @@ design:
     text_color_light: false
 hero_media: electrochemistry.jpg
 ---
-{{< figure src="icon_echem.png" width="100">}}
+<!-- {{< figure src="icon_echem.png" width="100">}} -->
 
 **Electrically-driven** separation and energy processes such as electrodialysis are
 a major focus of our research. We employ electrochemical techniques like impedance

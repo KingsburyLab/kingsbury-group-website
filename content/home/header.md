@@ -11,7 +11,7 @@ weight: 1
 
 title:
 subtitle:
-active: true
+active: false
 
 design:
   columns: '1'

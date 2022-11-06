@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to the Kingsbury Research Group
-      content: "![kingsbury lab logo](kingsbury_lab_logo.png) We seek to **accelerate development** of electrochemical technologies that address environmental challenges related to climate change, water scarcity, and food security."
+      content: "We seek to **accelerate development** of electrochemical technologies that address environmental challenges related to climate change, water scarcity, and food security."
       align: center
       background:
         position: center
@@ -40,7 +40,7 @@ content:
         url: ../research/
     - title: Join Us
       content: 'The Kingsbury Group is coming to Princeton University! We are recruiting multiple graduate students and postdocs to start in Summer/Fall 2023.'
-      align: right
+      align: left
       background:
         position: center
         color: '#333'

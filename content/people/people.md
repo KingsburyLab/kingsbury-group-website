@@ -27,3 +27,4 @@ design:
   show_role: true
   show_social: true
 ---
+Icon design by Ann Rutt.

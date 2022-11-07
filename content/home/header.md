@@ -25,9 +25,9 @@ design:
   spacing:
     padding: ['20px', '20px', '20px', '20px']
 ---
-{{<figure src="princeton_logo.png" height="80" alt="kingsbury lab logo" style="float:left" />}}
-{{<figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo" style="float:center"}} />}}
-{{<figure src="andlinger_logo.png" height="80" alt="kingsbury lab logo" style="float:right" />}}
+{{<figure src="princeton_logo.png" height="80" alt="kingsbury lab logo" style="float:left" >}}
+{{<figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo" style="float:center">}}
+{{<figure src="andlinger_logo.png" height="80" alt="kingsbury lab logo" style="float:right" >}}
 
 <!-- 
 ---

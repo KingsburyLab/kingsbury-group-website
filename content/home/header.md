@@ -11,21 +11,23 @@ weight: 1
 
 title:
 subtitle:
-active: false
+active: true
 
 design:
   columns: '1'
   background:
-    image: kingsbury_lab_logo.png
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['20px', '20px', '20px', '20px']
 ---
-
+<img src="princeton_logo.png" height="80" alt="kingsbury lab logo" style="float:left" />
+<img src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo" style="float:center" />
+<img src="andlinger_logo.png" height="80" alt="kingsbury lab logo" style="float:right" />
 
 <!-- 
 ---
@@ -43,4 +45,3 @@ design:
     image: ""
     text_color_light: false
 ---
-{{< figure src="kingsbury_lab_logo.png" height="80" alt="kingsbury lab logo">}} -->

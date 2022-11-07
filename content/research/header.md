@@ -8,7 +8,7 @@ align: left
 active: true
 design:
   columns: "1"
-  css_style: "height:60px"
+  css_style: null
   css_class: null
   background:
     image: ""

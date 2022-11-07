@@ -17,6 +17,8 @@ design:
   columns: '1'
   spacing:
     padding: ['20px', '20px', '20px', '20px']
+  css_style:
+    height: "60px"
 ---
 <table  cellpadding="15" style="margin:auto">
 	<tbody>

@@ -10,6 +10,9 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  spacing:
+    padding: ['0px', '0px', '0px', '0px']
+    margin: ['0px', '0px', '0px', '0px']
   background:
     image: ""
     text_color_light: false

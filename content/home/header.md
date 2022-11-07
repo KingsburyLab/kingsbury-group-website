@@ -16,11 +16,11 @@ active: true
 design:
   columns: '1'
   spacing:
-    padding: ['20px', '20px', '20px', '20px']
-  css_style:
-    height: "60px"
+    padding: ['0px', '0px', '0px', '0px']
+    margin: ['0px', '0px', '0px', '0px']
+  height: '60px'
 ---
-<table  cellpadding="15" style="margin:auto">
+<table  cellpadding="5" style="margin:auto">
 	<tbody>
 		<tr class="text-align:left">
 			<td class="text-align:center">{{<figure src="princeton_logo.png" height="50" alt="princeton logo" style="float:left" >}}</td>

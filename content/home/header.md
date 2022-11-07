@@ -22,10 +22,10 @@ design:
 <table  cellpadding="5" style="margin:auto">
 	<tbody>
 		<tr class="text-align:left; height:60px">
-			<td class="text-align:center">{{<figure src="princeton_logo.png" style="height:50px" alt="princeton logo" style="float:left" >}}</td>
+			<td class="text-align:center">{{<figure src="princeton_logo.png" alt="princeton logo" style="float:left; height:50px" >}}</td>
 			<td class="text-align:center">
-{{<figure src="kingsbury_lab_logo.png" style="height:50px" alt="kingsbury lab logo" style="float:center">}}</td>
-			<td class="text-align:right">{{<figure src="andlinger_logo.png" style="height:50px" alt="andlinger center logo" style="float:right" >}}</td>
+{{<figure src="kingsbury_lab_logo.png" alt="kingsbury lab logo" style="float:center; height:50px">}}</td>
+			<td class="text-align:right">{{<figure src="andlinger_logo.png" alt="andlinger center logo" style="float:right; height:50px" >}}</td>
 		</tr>
 	</tbody>
 </table>

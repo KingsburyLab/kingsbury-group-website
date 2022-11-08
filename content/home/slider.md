@@ -21,7 +21,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.5
+        brightness: 0.4
         media: Hero_1.jpg
         fit: cover
     - title: We study ion-selective materials
@@ -30,7 +30,7 @@ content:
       background:
         position: center
         color: '#555'
-        brightness: 0.5
+        brightness: 0.4
         media: Hero_2.jpg
         fit: cover
       link:

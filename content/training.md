@@ -27,7 +27,7 @@ vast ecosystem of software, utlities, and training materials.
 
 - [Basic Python Tutorial](https://workshop.materialsproject.org/primer/01_basic_python/1%20-%20Python%20Primer/) from the 2021 Materials Project Workshop
 - [Video Tutorial - Python Part 1](https://www.youtube.com/watch?v=vga6eV3IAac&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE) from the 2020 Materials Project Workshop (taught by Prof. Kingsbury!)
-- - [Video Tutorial - Python Part 2](https://www.youtube.com/watch?v=bplWlAgyjg0&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE&index=3) from the 2020 Materials Project Workshop
+- [Video Tutorial - Python Part 2](https://www.youtube.com/watch?v=bplWlAgyjg0&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE&index=3) from the 2020 Materials Project Workshop
 
 
 #### Advanced Topics

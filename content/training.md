@@ -16,7 +16,7 @@ header:
 
 # Learning resources for python, git, and GitHub
 
-Please [contact us](contact/contact.md) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
+Please [contact us]({{< ref "contact/contact.md" >}}) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
 
 ## python
 
@@ -64,11 +64,12 @@ The open-source codes used by our research group are all hosted on GitHub.
 - [The Beginner's Guide to git and GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [Getting Started with GitHub](https://docs.github.com/en/get-started/quickstart/hello-world) - official documentation
 - [GitHub skills](https://skills.github.com/) - bite-sized tutorials walking through how to use GitHub
-- [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+- [Traveling the Multiverse with Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-14213624/travel-the-multiverse-with-git-and-github) [LinkedIn Learning]
 - [GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary) explaining different terminology
 
 ### Advanced Topics
 
+- [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - Setting up [pre-commit](https://calmcode.io/pre-commit/the-problem.html) to automatically check code quality
 - [Mkdocs](https://calmcode.io/mkdocs/intro-to-mkdocs.html) system for building documentation
 - [pyscaffold](https://pyscaffold.org/en/stable/) template for open-source python projects

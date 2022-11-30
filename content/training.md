@@ -41,6 +41,7 @@ packaging and distributing software, etc.
 - [args and kwargs](https://calmcode.io/args-kwargs/introduction.html) in function definitions
 - Writing [comprehensions](https://calmcode.io/comprehensions/introduction.html) for more compact code
 - Dealing with files using [pathlib](https://calmcode.io/pathlib/do-not-hardcode.html)
+- Using [numpy](https://numpy.org/doc/stable/user/absolute_beginners.html) for numerical analysis
 - Automatic unit conversions with [pint](https://calmcode.io/shorts/pint.py.html)
 - Adding nice progress bars with [tqdm](https://calmcode.io/tqdm/making-a-progress-bar.html)
 - Linting code with [flake8](https://calmcode.io/flake8/introduction.html)
@@ -59,7 +60,8 @@ practice, learn, experiment, and share your work.
 ## git and GitHub
 
 `git` and GitHub provide version control and feedback tools for collaboratively developing and maintaining code.
-The open-source codes used by our research group are all hosted on GitHub.
+The open-source codes used by our research group are all hosted on GitHub. As you learn, please feel welcome to
+try out your new skills by forking, pushing, or raising an issue to our [training repository](https://github.com/KingsburyLab/training-repo)!
 
 #### Basics
 

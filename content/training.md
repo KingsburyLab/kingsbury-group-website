@@ -14,23 +14,23 @@ header:
   image: ""
 ---
 
-# Learning resources for python, git, and GitHub
+# Resources for learning python, git, and GitHub
 
 Please [contact us]({{< ref "contact/contact.md" >}}) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
 
-## python
+### python
 
 Python is the language of modern data science. It is powerful, easy to use, and powers a
 vast ecosystem of software, utlities, and training materials.
 
-### Basics
+#### Basics
 
 - [Basic Python Tutorial](https://workshop.materialsproject.org/primer/01_basic_python/1%20-%20Python%20Primer/) from the 2021 Materials Project Workshop
 - [Video Tutorial - Python Part 1](https://www.youtube.com/watch?v=vga6eV3IAac&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE) from the 2020 Materials Project Workshop (taught by Prof. Kingsbury!)
 - - [Video Tutorial - Python Part 2](https://www.youtube.com/watch?v=bplWlAgyjg0&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE&index=3) from the 2020 Materials Project Workshop
 
 
-### Advanced Topics
+#### Advanced Topics
 
 
 These tutorials introduce more advanced concepts that are relevant for writing high quality code,
@@ -44,7 +44,7 @@ packaging and distributing software, etc.
 - Linting code with [flake8](https://calmcode.io/flake8/introduction.html)
 - Automatically formatting code with [black](https://calmcode.io/black/introduction.html)
 
-## Jupyter notebooks
+### Jupyter notebooks
 
 Jupyter notebooks provide a way to interactively run and share python code. Thet are **the** recommended way to
 practice, learn, experiment, and share your work.
@@ -54,12 +54,12 @@ practice, learn, experiment, and share your work.
 - [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk) [YouTube]
 
 
-## git and GitHub
+### git and GitHub
 
 `git` and GitHub provide version control and feedback tools for collaboratively developing and maintaining code.
 The open-source codes used by our research group are all hosted on GitHub.
 
-### Basics
+#### Basics
 
 - [The Beginner's Guide to git and GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 - [Getting Started with GitHub](https://docs.github.com/en/get-started/quickstart/hello-world) - official documentation
@@ -67,7 +67,7 @@ The open-source codes used by our research group are all hosted on GitHub.
 - [Traveling the Multiverse with Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-14213624/travel-the-multiverse-with-git-and-github) [LinkedIn Learning]
 - [GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary) explaining different terminology
 
-### Advanced Topics
+#### Advanced Topics
 
 - [git cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - Setting up [pre-commit](https://calmcode.io/pre-commit/the-problem.html) to automatically check code quality

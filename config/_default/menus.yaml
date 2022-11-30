@@ -19,6 +19,9 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Resources
+    url: training.md
+    weight: 55
   - name: Contact
     url: contact
     weight: 60

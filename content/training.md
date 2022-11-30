@@ -16,11 +16,11 @@ header:
 
 # Resources for learning python, git, and GitHub
 
-Please [contact us]({{< ref "contact/index.md" >}}) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
+Please [contact us]({{< ref "contact/index.md" >}}) to suggest additional resources, report broken links, or otherwise give feedback on the resources here.
 
 ## python
 
-Python is the language of modern data science. It is powerful, easy to use, and powers a
+Python is the language of modern data science. It is powerful, easy to use, and supports a
 vast ecosystem of software, utlities, and training materials.
 
 #### Basics

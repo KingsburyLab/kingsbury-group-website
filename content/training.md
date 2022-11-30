@@ -25,10 +25,11 @@ vast ecosystem of software, utlities, and training materials.
 
 #### Basics
 
-- [Python Tutorial Part 1](https://workshop.materialsproject.org/primer/01_basic_python/1%20-%20Python%20Primer/) from the Materials Project Workshop
-- [Python Tutorial Part 2](https://workshop.materialsproject.org/primer/02_python_part2/lessons/) from the Materials Project Workshop
+- [Python Tutorial Part 1](https://workshop.materialsproject.org/primer/01_basic_python/1%20-%20Python%20Primer/) from the Materials Project Workshop - expressions, variables, data types, and for loops
+- [Python Tutorial Part 2](https://workshop.materialsproject.org/primer/02_python_part2/lessons/) from the Materials Project Workshop - dictionaries, functions, and classes
 - [Video Tutorial - Python Part 1](https://www.youtube.com/watch?v=vga6eV3IAac&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE) from the Materials Project Workshop (taught by Prof. Kingsbury!)
 - [Video Tutorial - Python Part 2](https://www.youtube.com/watch?v=bplWlAgyjg0&list=PLTjFYVNE7LTiuOK8Re7ltY0a3OHFcQhAE&index=3) from the Materials Project Workshop
+- Installation - [setting up `pip` and `conda` environments](https://workshop.materialsproject.org/primer/04_Python_environments/1_pip_and_conda/)
 
 
 #### Advanced Topics

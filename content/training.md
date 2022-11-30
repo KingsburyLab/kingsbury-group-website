@@ -16,7 +16,7 @@ header:
 
 # Resources for learning python, git, and GitHub
 
-Please [contact us]({{< ref "contact/contact.md" >}}) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
+Please [contact us]({{< ref "contact/index.md" >}}) To suggest additional resources, report broken links, or otherwise give feedback on the resources here.
 
 ### python
 

@@ -55,3 +55,5 @@ design:
 The Kingsbury group will be proudly housed in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) at Princeton University, beginning in Summer 2023.
 
 If you are interested in collaborating, sponsoring our research, or working in our group, please get in touch!
+
+**Prospective graduate students** - please refer to [this link](https://cee.princeton.edu/graduate/how-apply) for information about how to apply. I am not able to respond to inquiries for admission via this form.

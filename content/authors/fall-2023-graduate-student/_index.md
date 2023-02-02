@@ -7,3 +7,6 @@ superuser: false
 user_groups:
   - Graduate Students
 ---
+**T﻿he deadline to apply for 2023 admissions has passed. For more information, visit**
+
+[How to Apply | Civil and Environmental Engineering (princeton.edu)](https://cee.princeton.edu/graduate/how-apply)

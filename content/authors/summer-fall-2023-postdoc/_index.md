@@ -1,5 +1,5 @@
 ---
-title: Postdoc Opening
+title: Postdoc Opening - Computational
 role: "Summer / Fall 2023 (topic: computational electrochemistry)"
 avatar_filename: avatar.png
 social: []

@@ -38,22 +38,20 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: true
 
 design:
   columns: '1'
 ---
-The Kingsbury group will be proudly housed in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) at Princeton University, beginning in Summer 2023.
+The Kingsbury group is proudly housed in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) at Princeton University.
 
-If you are interested in collaborating, sponsoring our research, or working in our group, please get in touch!
-
-**Prospective graduate students** - please refer to [this link](https://cee.princeton.edu/graduate/how-apply) for information about how to apply. I am not able to respond to inquiries for admission via this form.
+**Prospective group members** - please [click here](https://forms.gle/ca6sLbDnSM5vkcaU9) for information about joining the group.

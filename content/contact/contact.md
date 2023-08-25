@@ -54,4 +54,4 @@ design:
 ---
 The Kingsbury group is proudly housed in the [Department of Civil and Environmental Engineering](https://cee.princeton.edu/) and the [Andlinger Center for Energy and the Environment](https://acee.princeton.edu/) at Princeton University.
 
-**Prospective group members** - please [click here](https://forms.gle/ca6sLbDnSM5vkcaU9) for information about joining the group.
+**Prospective group members - >>> [click here](https://forms.gle/ca6sLbDnSM5vkcaU9) <<<** for information about joining the group.

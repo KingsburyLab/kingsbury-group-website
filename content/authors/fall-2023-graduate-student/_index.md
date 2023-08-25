@@ -1,5 +1,5 @@
 ---
-title: Graduate Student Opening
+title: Graduate Student
 role: Fall 2023
 avatar_filename: avatar.png
 social: []

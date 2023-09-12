@@ -1,7 +1,7 @@
 ---
 title: Arpit Bhardwaj
 # role: "Computational Electrochemistry"
-avatar_filename: arpit.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: linkedin
     icon_pack: fab

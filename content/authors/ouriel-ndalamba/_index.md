@@ -1,7 +1,7 @@
 ---
 title: Ouriel Ndalamba
 # role: PhD Student
-avatar_filename: ouriel.jpg
+avatar_filename: avatar.jpg
 social: 
   - icon: linkedin
     icon_pack: fab

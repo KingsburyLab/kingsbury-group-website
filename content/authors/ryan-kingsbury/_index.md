@@ -33,7 +33,7 @@ user_groups:
 name: Ryan Kingsbury
 title: Ryan Kingsbury, Ph.D., P.E.
 role: Assistant Professor
-avatar_filename: ryan.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: envelope
     icon_pack: fas

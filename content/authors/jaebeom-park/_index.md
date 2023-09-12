@@ -1,7 +1,7 @@
 ---
 title: Jaebeom Park
 # role: PhD Student
-avatar_filename: jaebeom.jpg
+avatar_filename: avatar.jpg
 social:  
   - icon: linkedin
     icon_pack: fab

@@ -32,8 +32,8 @@ user_groups:
   - Principal Investigator
 name: Ryan Kingsbury
 title: Ryan Kingsbury, Ph.D., P.E.
-role: Incoming Assistant Professor (2023)
-avatar_filename: avatar.jpg
+role: Assistant Professor
+avatar_filename: ryan.jpg
 social:
   - icon: envelope
     icon_pack: fas

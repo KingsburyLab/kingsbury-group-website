@@ -39,7 +39,7 @@ content:
         text: Our Research
         url: ../research/
     - title: Join Us
-      content: 'The Kingsbury Lab is coming to Princeton University! We are recruiting multiple graduate students and postdocs to start in Summer/Fall 2023.'
+      content: 'We are always interested in connecting with new collaborators and exceptional undergraduate, graduate, and postdoctoral researchers.'
       align: left
       background:
         position: center
@@ -51,5 +51,5 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: See Openings
-        url: ../people/
+        url: https://forms.gle/ca6sLbDnSM5vkcaU9
 ---

@@ -14,8 +14,6 @@ social:
     link: https://orcid.org/0000-0001-6512-1821
 email: "jaebeom.park (@princeton.edu)"
 interests: "jaebeom.park (@princeton.edu)"
-design:
-  show_interests: true
 superuser: false
 user_groups:
   - Graduate Students

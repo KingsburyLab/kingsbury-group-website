@@ -1,11 +1,8 @@
 ---
 title: Jaebeom Park
-# role: PhD Student
+role: "jaebeom.park (@princeton.edu)"
 avatar_filename: avatar.jpg
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jaebeom.park@princeton.edu
   - icon: linkedin
     icon_pack: fab
     link: http://www.linkedin.com/in/jaebeom-park-a71349254

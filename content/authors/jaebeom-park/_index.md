@@ -2,7 +2,10 @@
 title: Jaebeom Park
 # role: PhD Student
 avatar_filename: avatar.jpg
-social:  
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: jaebeom.park@princeton.edu
   - icon: linkedin
     icon_pack: fab
     link: http://www.linkedin.com/in/jaebeom-park-a71349254
@@ -12,8 +15,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-6512-1821
-interests:
-  - "jaebeom.park (@princeton.edu)"
 superuser: false
 user_groups:
   - Graduate Students

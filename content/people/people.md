@@ -10,6 +10,8 @@ headless: true
 weight: 68
 
 title: Team
+<img src="Kingsbury_group_spring_2024.jpg" width="700">
+
 subtitle:
 
 content:

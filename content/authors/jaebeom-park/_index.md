@@ -1,6 +1,6 @@
 ---
 title: Jaebeom Park
-role: "jaebeom.park (@princeton.edu)"
+#role: "jaebeom.park (@princeton.edu)"
 avatar_filename: avatar.jpg
 social:
   - icon: linkedin

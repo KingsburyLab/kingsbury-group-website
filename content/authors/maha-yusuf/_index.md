@@ -1,6 +1,6 @@
 ---
 title: Maha Yusuf
-# role: "Computational Electrochemistry"
+role: "co-advised with Kelsey Hatzell"
 avatar_filename: avatar.jpg
 social:
   - icon: linkedin

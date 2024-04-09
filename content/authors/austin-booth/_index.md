@@ -1,6 +1,6 @@
 ---
 title: Austin Booth
-#role: "austin.booth (@princeton.edu)"
+role: "co-advised with Kelsey Hatzell"
 avatar_filename: avatar.jpg
 social:
   - icon: linkedin

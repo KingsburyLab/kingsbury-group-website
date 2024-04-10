@@ -1,5 +1,5 @@
 ---
-title: Sui Xiong
+title: Sui Xiong Tay
 #role: "sui.xiong (@princeton.edu)"
 avatar_filename: avatar.jpg
 social:

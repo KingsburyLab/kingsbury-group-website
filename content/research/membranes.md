@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-membranes
 headless: true
-weight: 10
+weight: 20
 title: "Membranes"
 active: true
 design:

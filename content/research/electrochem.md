@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-electrochemistry
 headless: true
-weight: 20
+weight: 30
 title: "Electrochemistry"
 active: true
 design:

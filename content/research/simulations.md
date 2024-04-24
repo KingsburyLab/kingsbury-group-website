@@ -2,7 +2,7 @@
 widget: hero
 widget_id: research-simulations
 headless: true
-weight: 30
+weight: 40
 title: "Simulations"
 active: true
 design:

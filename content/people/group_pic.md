@@ -12,4 +12,4 @@ design:
   columns: '1'
 ---
 
-<img src="Kingsbury_group_spring_2024.jpg" alt="Group picture" width="500" height="600">
+<img src="Kingsbury_group_spring_2024.jpg" alt="Group picture" width="2000" height="600" class="center">

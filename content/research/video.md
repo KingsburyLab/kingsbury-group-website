@@ -11,7 +11,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-Prof. Kingsbury gives a brief synopsis about the group's research work
+Hear Prof. Kingsbury give a brief synopsis of the group's research.
 
 <video width="320" height="240" controls>
   <source src="movie.mp4" type="video/mp4">

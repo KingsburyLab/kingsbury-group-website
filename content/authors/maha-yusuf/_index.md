@@ -1,6 +1,6 @@
 ---
 title: Maha Yusuf
-role: "co-advised with Kelsey Hatzell and Craig Arnold"
+role: "co-advised with Craig Arnold"
 avatar_filename: avatar.jpg
 social:
   - icon: linkedin

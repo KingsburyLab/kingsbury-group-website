@@ -17,7 +17,7 @@ social:
     link: https://github.com/abhardwaj73
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0009-0009-7870-6365
+    link: https://orcid.org/0009-0002-2007-1511
 
 superuser: false
 user_groups:

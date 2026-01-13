@@ -21,5 +21,5 @@ social:
 
 superuser: false
 user_groups:
-  - Postdoctoral Researchers
+  - Alumni
 ---

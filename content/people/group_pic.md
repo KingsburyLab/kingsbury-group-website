@@ -25,7 +25,7 @@ img {
 </head>
 <body>
 
-<img src="kingsburylab_group_Sept2025c.jpg" alt="Group picture" width="1000" height="300" class="center">
+<!-- <img src="Kingsbury_Group_AEESP25_cropped" alt="Group picture" width="1000" height="300" class="center"> -->
 
 </body>
 </html>

@@ -1,0 +1,12 @@
+---
+title: "Unifying the conversation: Membrane separation performance in energy, water, and industrial applications"
+date: 2024-01-09
+publishDate: 2024-01-09
+authors: ["Sarah M. Dischinger", "Daniel J. Miller", "David A. Vermaas", "Ryan S. Kingsbury"]
+publication_types: ["2"]
+abstract: "Dense polymer membranes enable a diverse range of separations and clean energy technologies, including gas separation, water treatment, and renewable fuel production or conversion. The transport of small molecular and ionic solutes in the majority of these membranes is described by the same solution-diffusion mechanism, yet a comparison of membrane separation performance across applications is rare. A better understanding of how structure–property relationships and driving forces compare among applications would drive innovation in membrane development by identifying opportunities for cross-disciplinary knowledge transfer. Here, we aim to inspire such cross-pollination by evaluating the selectivity and electrochemical driving forces for 29 separations across nine different applications using a common framework grounded in the physicochemical characteristics of the permeating and rejected solutes. Our analysis shows that highly selective membranes usually exhibit high solute rejection, rather than fast solute permeation, and often exploit contrasts in the size and charge of solutes rather than a nonelectrostatic chemical property, polarizability. We also highlight the power of selective driving forces (e.g., the fact that applied electric potential acts on charged solutes but not on neutral ones) to enable effective separation processes, even when the membrane itself has poor selectivity. We conclude by proposing several research opportunities that are likely to impact multiple areas of membrane science. The high-level perspective of membrane separation across fields presented herein aims to promote cross-pollination and innovation by enabling comparisons of solute transport and driving forces among membrane separation applications."
+featured: true
+publication: "*ACS ES&T Engineering*"
+url_pdf: "https://pubs.acs.org/doi/pdf/10.1021/acsestengg.3c00566"
+doi: "10.1021/acsestengg.3c00566"
+---

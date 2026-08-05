@@ -1,0 +1,4 @@
+{{- range $index, $author := . -}}
+  {{- if gt $index 0 }}, {{ end -}}
+  {{- $author | markdownify -}}
+{{- end -}}

@@ -1,0 +1,61 @@
+{{ define "header" }}
+  <header class="header-section">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <div class="page-heading">
+              <h1>{{ .Title }}</h1>
+              <hr class="small">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  {{- $events := where .Site.RegularPages "Type" "gallery-event" -}}
+  {{- $paginator := .Paginate ($events.ByDate.Reverse) 9 -}}
+  <main class="container" role="main">
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <article class="blog-post">
+          {{- if eq $paginator.PageNumber 1 }}
+            {{ .Content }}
+          {{- else }}
+            <h2>Group Events</h2>
+          {{- end }}
+          <div class="event-card-grid">
+            {{- range $paginator.Pages }}
+              {{- $event := . }}
+              <a class="event-card" href="{{ .RelPermalink }}">
+                {{- with .Params.cover }}
+                  <img src="{{ . }}" alt="{{ $event.Title }}" loading="lazy">
+                {{- end }}
+                <div class="event-card-body">
+                  <h3>{{ .Title }}</h3>
+                  <p>{{ .Date.Format "January 2006" }} &middot; {{ len .Params.gallery_images }} {{ if eq (len .Params.gallery_images) 1 }}photo{{ else }}photos{{ end }}</p>
+                </div>
+              </a>
+            {{- end }}
+          </div>
+          {{- if gt $paginator.TotalPages 1 }}
+            <nav class="publication-pagination" aria-label="Gallery event pages">
+              {{- with $paginator.Prev }}<a class="publication-page-nav" href="{{ .URL }}" rel="prev">Previous</a>{{ end }}
+              {{- range $paginator.Pagers }}
+                {{- if eq .PageNumber $paginator.PageNumber }}
+                  <span class="publication-page-number is-current" aria-current="page">{{ .PageNumber }}</span>
+                {{- else }}
+                  <a class="publication-page-number" href="{{ .URL }}">{{ .PageNumber }}</a>
+                {{- end }}
+              {{- end }}
+              {{- with $paginator.Next }}<a class="publication-page-nav" href="{{ .URL }}" rel="next">Next</a>{{ end }}
+            </nav>
+          {{- end }}
+        </article>
+      </div>
+    </div>
+  </main>
+{{ end }}

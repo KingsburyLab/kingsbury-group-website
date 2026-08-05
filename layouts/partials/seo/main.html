@@ -1,0 +1,8 @@
+{{- if and .IsSection (eq .Section "gallery") -}}
+  {{- $events := where site.RegularPages "Type" "gallery-event" -}}
+  {{- $galleryPaginator := .Paginate ($events.ByDate.Reverse) 9 -}}
+{{- end -}}
+{{- partial "seo/schema" . }}
+{{- partial "opengraph.html" . }}
+{{- partial "seo/canonical.html" . }}
+{{- partial "seo/twitter" . }}

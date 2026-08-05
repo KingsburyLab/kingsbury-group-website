@@ -1,0 +1,34 @@
+---
+title: News
+---
+
+- *August 2026* - Welcome to the lab, Soobin!
+- *July 2026* - At the International Congress on Membranes and Membrane Processes (ICOM) in San Antonio, Texas, **Ryan** presented "A Reinterpretation of Upper Bound Tradeoffs from First Principles: What Are the Ultimate Limits?"; **Monong** presented "Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies"; **Jaebeom** presented "It Takes Two: Thermodynamically Favorable Ion Pairing in Hydrated Membranes"; and **Andrea** presented "A Temperature-Independent Method to Measure Ion Transport Activation Free Energies in Ion Exchange Membranes."
+- *July 2026* - "Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies" was accepted by *ACS ES&T*.
+- *June 2026* - Ryan Kingsbury received an [NSF CAREER Award](https://engineering.princeton.edu/news/2026/06/29/five-engineering-faculty-members-receive-nsf-career-awards-2).
+- *June 2026* - Ryan Kingsbury received a [Toyota Research Institute Young Faculty Researcher Award](https://cee.princeton.edu/news/assistant-professor-ryan-kingsbury-receives-young-faculty-researcher-award-toyota-research).
+- *June 2026* - Monong won the Best Poster Award at the 13th Annual Princeton E-ffiliates Partnership Retreat.
+- *June 2026* - Yitong passed her Ph.D. general exam!
+- *May 2026* - Jaebeom was selected as a recipient of a 2026 NSF ICOM Travel Award.
+- *May 2026* - Ryan Kingsbury received a [Junior Faculty Award](https://materials.princeton.edu/news/2026/assistant-professors-honored-excellence-junior-faculty-awards).
+- *March 2026* - Maha was [featured in a piece on mentorship](https://www.nature.com/articles/d41586-026-00666-x) in honor of International Women's Day.
+- *January 2026* - Andrea passed her Ph.D. general exam!
+- *December 2025* - The Andlinger Center published a short piece about the *A Guide to Ion Separations for the Global Energy Transition* perspective in *Joule*.
+- *December 2025* - At the Physics of Membrane Processes Conference (PMP) at Tongji University in Shanghai, **Ryan** presented a talk on the *Joule* perspective (title to be confirmed).
+- *November 2025* - Ryan's paper, "Unifying the Conversation: Membrane Separation Performance in Energy, Water, and Industrial Applications," was selected as a winner of the 2024 Best Paper Awards by the editorial team of *ACS ES&T Engineering*.
+- *September 2025* - "A Guide to Ion Separations for the Global Energy Transition" was published.
+- *August 2025* - "A Guide to Ion Separations for the Global Energy Transition" was accepted by *Joule*.
+- *August 2025* - In Atlanta, Georgia, Jaebeom received the KSEA-KUSCO Graduate Scholarship from the Korean-American Scientists and Engineers Association (KSEA). The scholarship recognizes graduate students in the United States who excel in academics and community service and demonstrate the potential to become future leaders who foster closer cooperation between the United States and Korea.
+- *June 2025* - The lab received support for pyEQL development through the [Research Software Engineering ROVER Program](https://researchcomputing.princeton.edu/services/research-software-engineering/rover-program).
+- *June 2025* - The lab received Electric Power Research Institute (EPRI) funding for power plant brine valorization.
+- *May 2025* - At the Association of Environmental Engineering and Science Professors (AEESP) Biennial Conference in Durham, North Carolina, **Monong** presented a poster (title to be confirmed); **Jaebeom** presented "Systematic Assessment of Ion Binding to Ion Exchange Materials for Selective Separation of Critical Materials"; **Yitong** presented "Predicting Major Ion Concentration from Electrical Conductivity: A Hybrid Approach Using Machine Learning and Numerical Optimization"; **Ouriel** presented "A Thermodynamic Perspective on Ion Partitioning for Resource Recovery"; and **Shaun** presented the talk "Accelerated Discovery of Electrodes for Wastewater Refining."
+- *April 2025* - Jaebeom passed his Ph.D. general exam!
+- *March 2025* - At ACS Spring 2025 in San Diego, California, **Arpit** presented ["Analysis of Carbonate Precipitation from Alkaline Mine Waste Using First Principles, Multi-Element Pourbaix Diagrams"](https://acs.digitellinc.com/p/s/analysis-of-carbonate-precipitation-from-alkaline-mine-waste-using-first-principles-multi-element-pourbaix-diagrams-623601).
+- *January 2025* - Shaun passed his Ph.D. general exam!
+- *January 2025* - The lab received a Princeton AI Lab Seed Grant to use machine learning to model electrolyte activity coefficients based on their physicochemical properties.
+- *August 2024* - Welcome to the lab, Yitong and Andrea!
+- *August 2024* - Welcome to the lab, Monong!
+- *June 2024* - The lab received a [Sustainability Our Planet Award](https://research.princeton.edu/news/three-new-research-projects-receive-sustainability-our-planet-funding) from the Office of the Dean for Research (ODFR).
+- *May 2024* - In San Francisco, California, Maha won the Energy Technology Division Graduate Student Award, sponsored by BioLogic, at the 245th ECS Meeting.
+- *April 2024* - Welcome to the lab, Lewis!
+- *August 2023* - Welcome to the lab, Arpit, Jaebeom, Ouriel, Maha, and Shaun!

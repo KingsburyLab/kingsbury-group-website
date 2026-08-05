@@ -25,9 +25,10 @@ title: Team
     <p class="profile-icons"><a href="http://www.linkedin.com/in/monong-wang-0993a6134" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a><a href="https://scholar.google.com/citations?user=BuKPce8AAAAJ&hl=en&oi=ao" aria-label="Google Scholar" title="Google Scholar"><i class="fab fa-google-scholar"></i></a><a href="https://orcid.org/0000-0003-1750-9973" aria-label="ORCID" title="ORCID"><i class="fab fa-orcid"></i></a></p>
   </div>
   <div class="person-card">
-    <div class="person-photo-placeholder" aria-hidden="true"></div>
+    <img src="/img/people/soobin-cho.png" alt="Soobin Cho">
     <h3>Soobin Cho</h3>
     <p><strong>Postdoctoral Researcher</strong></p>
+    <p class="profile-icons"><a href="https://www.linkedin.com/in/soobin-cho-104904243/" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a><a href="https://scholar.google.com/citations?user=MuVZ8dEAAAAJ&hl=en&oi=ao" aria-label="Google Scholar" title="Google Scholar"><i class="fab fa-google-scholar"></i></a></p>
   </div>
   <div class="person-card">
     <div class="person-photo-placeholder" aria-hidden="true"></div>

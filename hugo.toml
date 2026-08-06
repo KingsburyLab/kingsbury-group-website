@@ -49,7 +49,6 @@ theme = "beautifulhugo"
 
   [Params.author]
     name = "Kingsbury Research Group"
-    email = "kingsbury@princeton.edu"
     twitter = "kingsburylab"
     github = "KingsburyLab"
 
@@ -84,6 +83,11 @@ theme = "beautifulhugo"
   name = "Software"
   url = "research/software/"
   weight = 14
+
+[[menu.main]]
+  name = "PI"
+  url = "https://cee.princeton.edu/people/ryan-kingsbury"
+  weight = 18
 
 [[menu.main]]
   name = "Team"

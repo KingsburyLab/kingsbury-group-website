@@ -40,11 +40,17 @@ Our signature research approach integrates experiments, simulations, and softwar
   </a>
 </div>
 
+<div class="landing-research-video">
+  <video controls preload="metadata">
+    <source src="/video/research-overview.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Join Us
 
 We are always interested in connecting with new collaborators and exceptional undergraduate, graduate, and postdoctoral researchers.
 
 <p>
   <a class="btn btn-primary" href="https://forms.gle/ca6sLbDnSM5vkcaU9">See openings</a>
-  <a class="btn btn-outline-primary" href="/research/">Explore our research</a>
 </p>

@@ -150,6 +150,18 @@ footer {
   object-fit: contain;
 }
 
+.landing-research-video {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto 3rem;
+}
+
+.landing-research-video video {
+  height: auto;
+  max-width: 760px;
+  width: 100%;
+}
+
 .gallery-feature {
   margin: 1.5rem auto 3rem;
   max-width: 980px;

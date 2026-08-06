@@ -13,7 +13,7 @@ title: News
 - *May 2026* - Ryan Kingsbury received a [Junior Faculty Award](https://materials.princeton.edu/news/2026/assistant-professors-honored-excellence-junior-faculty-awards).
 - *March 2026* - Maha was [featured in a piece on mentorship](https://www.nature.com/articles/d41586-026-00666-x) in honor of International Women's Day.
 - *January 2026* - Andrea passed her Ph.D. general exam!
-- *December 2025* - The Andlinger Center published a short piece about the *A Guide to Ion Separations for the Global Energy Transition* perspective in *Joule*.
+- *December 2025* - The Andlinger Center published [a short piece](https://acee.princeton.edu/acee-news/accelerating-progress-in-clean-energy-technologies-and-water-management-rethinking-ion-separations/) about the *A Guide to Ion Separations for the Global Energy Transition* perspective in *Joule*.
 - *December 2025* - At the Physics of Membrane Processes Conference (PMP) at Tongji University in Shanghai, **Ryan** presented a talk on the *Joule* perspective (title to be confirmed).
 - *November 2025* - Ryan's paper, "Unifying the Conversation: Membrane Separation Performance in Energy, Water, and Industrial Applications," was selected as a winner of the 2024 Best Paper Awards by the editorial team of *ACS ES&T Engineering*.
 - *September 2025* - "A Guide to Ion Separations for the Global Energy Transition" was published.

@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        <article class="blog-post publication-single">
+          {{ with .Params.authors }}
+            <p class="publication-authors">{{ partial "publication-authors.html" . }}</p>
+          {{ end }}
+          <p>
+            {{ with .Params.publication }}<em>{{ . | markdownify }}</em>{{ end }}
+            {{ with .Date }}<span class="publication-date">({{ .Format "January 2006" }})</span>{{ end }}
+          </p>
+          <p>
+            {{ with .Params.doi }}<a href="https://doi.org/{{ . }}">DOI: {{ . }}</a>{{ end }}
+            {{ if and .Params.doi .Params.url_pdf }} · {{ end }}
+            {{ with .Params.url_pdf }}<a href="{{ . }}">PDF / Article</a>{{ end }}
+          </p>
+          {{ with .Params.abstract }}
+            <h2>Abstract</h2>
+            <p>{{ . | markdownify }}</p>
+          {{ end }}
+          {{ with .Content }}
+            {{ . }}
+          {{ end }}
+        </article>
+      </div>
+    </div>
+  </div>
+{{ end }}

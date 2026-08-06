@@ -1,0 +1,30 @@
+{{ define "header" }}
+  <header class="header-section news-header">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <div class="page-heading">
+              <h1>{{ .Title }}</h1>
+              <hr class="small">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}
+
+{{ define "main" }}
+  <main class="news-page" role="main">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 offset-md-1">
+          {{ with .Content }}
+            <div class="news-timeline">{{ . }}</div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </main>
+{{ end }}

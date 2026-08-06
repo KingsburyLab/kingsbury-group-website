@@ -1,0 +1,50 @@
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        {{ with .Content }}
+          <div class="content-section">{{ . }}</div>
+        {{ end }}
+        <div class="publication-list">
+          {{ $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+          {{ range $paginator.Pages }}
+            {{ $publication := . }}
+            {{ $graphicalAbstract := $publication.Resources.GetMatch "featured.*" }}
+            <article class="publication-entry{{ with $graphicalAbstract }} has-graphical-abstract{{ end }}">
+              <div class="publication-entry-content">
+                <h2>
+                  <a href="{{ if .Params.doi }}https://doi.org/{{ .Params.doi }}{{ else }}{{ .RelPermalink }}{{ end }}">{{ .Title }}</a>
+                </h2>
+                {{ with .Params.authors }}
+                  <p class="publication-authors">{{ partial "publication-authors.html" . }}</p>
+                {{ end }}
+                <p class="publication-journal">
+                  {{ with .Params.publication }}<em>{{ . | markdownify }}</em>{{ end }}
+                  {{ with .Date }}<span class="publication-date">({{ .Format "2006" }})</span>{{ end }}
+                </p>
+              </div>
+              {{ with $graphicalAbstract }}
+                <div class="publication-graphical-abstract">
+                  <img src="{{ .RelPermalink }}" alt="Graphical abstract for {{ $publication.Title }}" loading="lazy">
+                </div>
+              {{ end }}
+            </article>
+          {{ end }}
+        </div>
+        {{ if gt $paginator.TotalPages 1 }}
+          <nav class="publication-pagination" aria-label="Publication pages">
+            {{ with $paginator.Prev }}<a class="publication-page-nav" href="{{ .URL }}" rel="prev">Previous</a>{{ end }}
+            {{ range $paginator.Pagers }}
+              {{ if eq .PageNumber $paginator.PageNumber }}
+                <span class="publication-page-number is-current" aria-current="page">{{ .PageNumber }}</span>
+              {{ else }}
+                <a class="publication-page-number" href="{{ .URL }}">{{ .PageNumber }}</a>
+              {{ end }}
+            {{ end }}
+            {{ with $paginator.Next }}<a class="publication-page-nav" href="{{ .URL }}" rel="next">Next</a>{{ end }}
+          </nav>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

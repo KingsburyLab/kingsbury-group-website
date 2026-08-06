@@ -10,7 +10,8 @@ title: News
 - *June 2026* - Monong won the Best Poster Award at the 13th Annual Princeton E-ffiliates Partnership Retreat.
 - *June 2026* - Yitong passed her Ph.D. general exam!
 - *May 2026* - Jaebeom was selected as a recipient of a 2026 NSF ICOM Travel Award.
-- *May 2026* - Ryan Kingsbury received a [Junior Faculty Award](https://materials.princeton.edu/news/2026/assistant-professors-honored-excellence-junior-faculty-awards).
+- *May 2026* - Ryan Kingsbury received a [Junior Faculty Award](https://materials.princeton.edu/news/2026/assistant-professors-honored-excellence-junior-faculty-awards) from the School of Engineering and Applied Science (SEAS).
+- *May 2026* - Ryan was selected to participate in RCSA's [Sustainable Minerals, Metals, and Materials "SciaLog" event](https://rescorp.org/scialog/sustainable-minerals-metals-materials/)
 - *March 2026* - Maha was [featured in a piece on mentorship](https://www.nature.com/articles/d41586-026-00666-x) in honor of International Women's Day.
 - *January 2026* - Andrea passed her Ph.D. general exam!
 - *December 2025* - The Andlinger Center published [a short piece](https://acee.princeton.edu/acee-news/accelerating-progress-in-clean-energy-technologies-and-water-management-rethinking-ion-separations/) about the *A Guide to Ion Separations for the Global Energy Transition* perspective in *Joule*.

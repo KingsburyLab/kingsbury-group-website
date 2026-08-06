@@ -41,7 +41,7 @@ Our signature research approach integrates experiments, simulations, and softwar
 </div>
 
 <div class="landing-research-video">
-  <video controls preload="metadata">
+  <video width="640" controls preload="metadata">
     <source src="/video/research-overview.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>

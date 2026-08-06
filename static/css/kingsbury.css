@@ -156,9 +156,10 @@ footer {
   margin: 2rem auto 3rem;
 }
 
-.landing-research-video video {
+.content-section .landing-research-video video {
+  display: block;
   height: auto;
-  max-width: 760px;
+  max-width: 640px;
   width: 100%;
 }
 

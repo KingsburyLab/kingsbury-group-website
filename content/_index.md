@@ -44,5 +44,7 @@ Our signature research approach integrates experiments, simulations, and softwar
 
 We are always interested in connecting with new collaborators and exceptional undergraduate, graduate, and postdoctoral researchers.
 
-[See openings](https://forms.gle/ca6sLbDnSM5vkcaU9){.btn .btn-primary}
-[Explore our research](/research/){.btn .btn-outline-primary}
+<p>
+  <a class="btn btn-primary" href="https://forms.gle/ca6sLbDnSM5vkcaU9">See openings</a>
+  <a class="btn btn-outline-primary" href="/research/">Explore our research</a>
+</p>

@@ -32,3 +32,4 @@ title: News
 - *May 2024* - In San Francisco, California, Maha won the Energy Technology Division Graduate Student Award, sponsored by BioLogic, at the 245th ECS Meeting.
 - *April 2024* - Welcome to the lab, Lewis!
 - *August 2023* - Welcome to the lab, Arpit, Jaebeom, Ouriel, Maha, and Shaun!
+- *July 2023* - Ryan [officially joins Princeton](https://acee.princeton.edu/acee-news/ryan-kingsbury-joins-princeton-faculty-to-engineer-better-ion-selective-membranes/) as an Assistant Professor!

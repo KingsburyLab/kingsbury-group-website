@@ -13,7 +13,7 @@ title: Gallery
     <button class="gallery-thumb is-active" type="button" data-src="/img/group/2025_fall.jpg" data-alt="Kingsbury Lab Fall 2025 group photo" data-caption="Fall 2025">
       <img src="/img/group/2025_fall.jpg" alt="Fall 2025 group photo thumbnail">
     </button>
-    <button class="gallery-thumb" type="button" data-src="/img/group/2025_spring.jpg" data-alt="Kingsbury Lab Spring 2025 group photo at AEESP" data-caption="Spring 2025">
+    <button class="gallery-thumb" type="button" data-src="/img/group/2025_spring.jpg" data-alt="Kingsbury Lab Spring 2025 group photo at AEESP" data-caption="Spring 2025 at AEESP">
       <img src="/img/group/2025_spring.jpg" alt="Spring 2025 group photo thumbnail">
     </button>
     <button class="gallery-thumb" type="button" data-src="/img/group/2024_fall.jpg" data-alt="Kingsbury Lab Fall 2024 group photo" data-caption="Fall 2024">

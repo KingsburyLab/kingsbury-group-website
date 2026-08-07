@@ -86,7 +86,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
   name = "PI"
-  url = "https://cee.princeton.edu/people/ryan-kingsbury"
+  url = "people/principal-investigator/"
   weight = 18
 
 [[menu.main]]

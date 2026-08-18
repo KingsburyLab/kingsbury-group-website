@@ -342,7 +342,8 @@ footer {
 }
 
 .person-card img,
-.person-photo-placeholder {
+.person-photo-placeholder,
+.person-photo-frame {
   aspect-ratio: 1;
   border-radius: 50%;
   display: block;
@@ -350,6 +351,25 @@ footer {
   max-width: 128px;
   object-fit: cover;
   width: 62%;
+}
+
+.person-photo-frame-yuxuan {
+  background: #aaacab;
+  overflow: hidden;
+  position: relative;
+}
+
+.person-card .person-photo-frame-yuxuan img {
+  aspect-ratio: auto;
+  border-radius: 0;
+  height: auto;
+  left: 7%;
+  margin: 0;
+  max-width: none;
+  object-fit: initial;
+  position: absolute;
+  top: -4%;
+  width: 86%;
 }
 
 .person-card h3,

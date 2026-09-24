@@ -2,7 +2,9 @@
 title: News
 ---
 
-- *August 2026* - Welcome to the lab, Soobin!
+- *September 2026* - "First-principles thermodynamic analysis of ion pair formation in hydrated membranes" was accepted and published in *Journal of Membrane Science*.
+- *August 2026* - Welcome to the lab, Soobin, Yuxuan, Jinling, and Gibeom!
+- *August 2026* - "Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies" was published in *Environmental Science & Technology*.
 - *July 2026* - At the International Congress on Membranes and Membrane Processes (ICOM) in San Antonio, Texas, **Ryan** presented "A Reinterpretation of Upper Bound Tradeoffs from First Principles: What Are the Ultimate Limits?"; **Monong** presented "Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies"; **Jaebeom** presented "It Takes Two: Thermodynamically Favorable Ion Pairing in Hydrated Membranes"; and **Andrea** presented "A Temperature-Independent Method to Measure Ion Transport Activation Free Energies in Ion Exchange Membranes."
 - *July 2026* - "Composition and Critical Mineral Content of Major Industrial Wastewaters: Implications for Treatment and Resource Recovery Technologies" was accepted by *ACS ES&T*.
 - *June 2026* - Ryan Kingsbury received an [NSF CAREER Award](https://engineering.princeton.edu/news/2026/06/29/five-engineering-faculty-members-receive-nsf-career-awards-2).

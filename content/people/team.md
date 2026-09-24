@@ -68,14 +68,16 @@ title: Team
     <p class="profile-icons"><a href="https://orcid.org/0000-0003-1381-468X" aria-label="ORCID" title="ORCID"><i class="fab fa-orcid"></i></a></p>
   </div>
   <div class="person-card">
-    <div class="person-photo-placeholder" aria-hidden="true"></div>
+    <img src="/img/people/jinling-fan.jpeg" alt="Jinling Fan">
     <h3>Jinling Fan</h3>
     <p><strong>Ph.D. Student in CEE</strong></p>
+    <p class="profile-icons"><a href="https://www.linkedin.com/in/fanjinling/" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a><a href="https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=qZUBDk0AAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="fab fa-google-scholar"></i></a></p>
   </div>
   <div class="person-card">
-    <div class="person-photo-placeholder" aria-hidden="true"></div>
+    <img src="/img/people/gibeom-park.jpg" alt="Gibeom Park">
     <h3>Gibeom Park</h3>
     <p><strong>Ph.D. Student in CEE</strong></p>
+    <p class="profile-icons"><a href="http://www.linkedin.com/in/gibeompark" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a><a href="https://scholar.google.com/citations?hl=en&amp;authuser=1&amp;user=6gGpXhkAAAAJ" aria-label="Google Scholar" title="Google Scholar"><i class="fab fa-google-scholar"></i></a><a href="https://orcid.org/0009-0008-7356-6415" aria-label="ORCID" title="ORCID"><i class="fab fa-orcid"></i></a></p>
   </div>
 </div>
 
